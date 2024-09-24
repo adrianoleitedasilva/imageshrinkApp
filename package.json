@@ -1,0 +1,14 @@
+{
+  "name": "imageshrinkapp",
+  "version": "1.0.0",
+  "description": "App para otimizar imagens",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Adriano Leite da Silva",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^32.1.2"
+  }
+}
